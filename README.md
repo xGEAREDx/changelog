@@ -1,1 +1,2 @@
-# geared-changelog
+```bash
+simple changelog for my projects |--|
